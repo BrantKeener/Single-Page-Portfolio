@@ -6,7 +6,7 @@ The single page portfolio lets employers or persepctive clients get an idea of t
 
 ## Getting Started
 
-Cloning and forking with git are easy. To clone, head over to [single-page-portfolio](https://brantkeener.github.io/Single-Page-Portfolio/) and navigate using the clone or download button. Copy the link, and perform 
+Cloning and forking with git are easy. To clone, head over to [single-page-portfolio](https://github.com/BrantKeener/Single-Page-Portfolio) and navigate using the clone or download button. Copy the link, and perform 
 `git clone {copied link}`.
 
 ### Prerequisites
