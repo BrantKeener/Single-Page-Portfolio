@@ -1,5 +1,6 @@
 # Single-Page-Portfolio
 
+![Portfolio Screen Capture](./assets/images/portfolio-cap.png )
 The single page portfolio lets employers or persepctive clients get an idea of the work that I have done. It is displayed in a quick and clean format.
 
 ## Getting Started
